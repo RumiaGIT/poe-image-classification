@@ -13,8 +13,8 @@ Example:
 
 ## Contents
 ~~~
-/data:                            Dataset used during the project.
-/images:                          Images and examples used in the Jupyter Notebook and readme.
-README.md:                        You're reading it.
-poe_fashion_mnist.ipynb:          Code for the creation, training, testing, and evaluation of a PyTorch CNN.
+/data:                          Dataset used during the project.
+/images:                        Images and examples used in the Jupyter Notebook and readme.
+README.md:                      You're reading it.
+poe_fashion_mnist.ipynb:        Code for the creation, training, testing, and evaluation of a PyTorch CNN.
 ~~~
