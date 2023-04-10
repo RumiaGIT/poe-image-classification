@@ -16,5 +16,5 @@ Example:
 /data:                            Dataset used during the project.
 /images:                          Images and examples used in the Jupyter Notebook and readme.
 README.md:                        You're reading it.
-poe-fashion-mnist.ipynb:          Code for the creation, training, and testing of a PyTorch CNN.
+poe_fashion_mnist.ipynb:          Code for the creation, training, testing, and evaluation of a PyTorch CNN.
 ~~~
